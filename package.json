@@ -1,0 +1,19 @@
+{
+  "name": "soy",
+  "version": "0.1.0",
+  "description": "Educational blog written in JavaScript to be run on Google Cloud Free Tier",
+  "main": "index.js",
+  "author": "Derek Wu",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "koa": "2.5.1",
+    "koa-router": "^7.4.0",
+    "showdown": "1.8.6"
+  },
+  "scripts": {
+    "make-posts": "",
+    "test": "",
+    "start": "node index.js"
+  }
+}
